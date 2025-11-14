@@ -48,6 +48,13 @@ I enjoy solving real-world problems using logical and analytical thinking while 
 
 ---
 
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,mysql,html,css,js,git,github,vscode" />
+</p>
+
+---
+
 ### 💼 Experience
 **Intern – Myna Seva Foundation Pvt. Ltd.**  
 📅 June 2025 – July 2025  
